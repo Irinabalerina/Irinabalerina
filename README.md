@@ -1,6 +1,6 @@
 # Привет, меня зовут Ирина!
 
-:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/irina_balerina_yo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:medvedeva.irinav@yandex.ru)
+:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-irina_balerina_yo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/irina_balerina_yo) [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:medvedeva.irinav@yandex.ru)
 
 ### Технологии 🛠️:
 
@@ -21,7 +21,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
 </div>
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
